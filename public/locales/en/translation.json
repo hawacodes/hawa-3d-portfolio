@@ -1,0 +1,81 @@
+{
+  "softwareEngineer": "Software Engineer",
+  "navLinks": {
+    "about": "About",
+    "works": "Work",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "description": "I am a passionate software developer with a keen eye for creating interactive and visually appealing web applications. My approach combines technical expertise with creative problem-solving to deliver seamless user experiences."
+  },
+  "about": {
+    "introduction": "Introduction",
+    "overview": "Overview",
+    "description": "As an experienced software developer proficient in JavaScript, I specialize in frameworks such as React, echarts and Three.js. I am adept at picking up new skills quickly and work closely with clients to develop efficient, scalable, and user-friendly solutions that address real-world challenges. I'm excited to collaborate with you to transform your ideas into reality!"
+  },
+  "services": {
+    "webDeveloper": "Web Developer",
+    "dataVisualisationSpecialist": "Data Visualisation Specialist",
+    "modelEnthusiast": "3D model enthusiast",
+    "digitalArtist": "Digital Artist"
+  },
+  "contact": {
+    "getInTouch": "Get in touch",
+    "contactTitle": "Contact."
+  },
+  "education": {
+    "sectionSubText": "My core assets",
+    "sectionHeadText": "Education."
+  },
+  "experience": {
+    "sectionSubText": "What I have done so far",
+    "sectionHeadText": "Work Experience",
+    "showDetails":"Show details",
+    "hideDetails":"Hide details",
+    "juniorFrontendDeveloper": {
+      "title": "Junior Frontend Developer",
+      "companyName": "Yellow Pages",
+      "date": "Jun 2017 - Jul 2017",
+      "points": [
+        "Collaborated with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+        "Created 'Forgot/Reset Password' page.",
+        "Improved the search page for 'No Page Found' outcomes."
+      ]
+    },
+    "managementTrainee": {
+      "title": "Management Trainee",
+      "companyName": "Rell - Toksöz Grup",
+      "date": "Sep 2018 - Sep 2019",
+      "points": [
+        "As a management trainee, I had 3 job rotations as a network administrator, web developer, and program consultant. These rotations put me in a different job function every one to two months allowing me to get the first-hand experience and decide whether the job is right for me or not.",
+        "I took leadership classes and learned about the company's culture and values.",
+        "I learned C# and ASP.Net during one of my rotations. I worked on two projects:",
+        "Asset Management Software: SoftExpert",
+        "EDI Order Application: C# ASP.Net - XAF Framework"
+      ]
+    },
+    "softwareSpecialist": {
+      "title": "Software Specialist",
+      "companyName": "Sanset",
+      "date": "Sep 2019 - Jan 2022",
+      "points": [
+        "I worked on a bonus model and an E-commerce integration project. The Bonus Model consists of the XAF framework and focuses on calculating sales representatives’ bonuses. It changes every month.",
+        "E-commerce integration is about using API inside created web services.",
+        "Implementing responsive design and ensuring cross-browser compatibility.",
+        "I worked on a project about creating exams and surveys for sales representatives and maintaining the Bonus Model project."
+      ]
+    },
+    "frontendDeveloper": {
+      "title": "Frontend Developer",
+      "companyName": "Siemens",
+      "date": "Feb 2022 - Present",
+      "points": [
+        "Developing and maintaining web applications using React.js and other related technologies.",
+        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+        "Implementing responsive design and ensuring cross-browser compatibility.",
+        "Participating in code reviews and providing constructive feedback to other developers."
+      ]
+    }
+  }
+}

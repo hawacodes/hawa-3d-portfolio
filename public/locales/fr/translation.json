@@ -1,0 +1,81 @@
+{
+  "softwareEngineer": "Ingénieur Logiciel",
+  "navLinks": {
+    "about": "À propos",
+    "works": "Travail",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Salut, Je suis",
+   "description": "Je suis un développeur logiciel passionné avec un œil attentif pour créer des applications web interactives et visuellement attrayantes. Mon approche combine expertise technique et résolution créative de problèmes pour offrir des expériences utilisateur fluides."
+  },
+  "about": {
+    "introduction": "Introduction",
+    "overview": "Aperçu",
+    "description": "En tant que développeur de logiciels expérimenté maîtrisant JavaScript, je me spécialise dans des frameworks tels que React, echarts et Three.js. Je suis capable d'acquérir rapidement de nouvelles compétences et de travailler en étroite collaboration avec les clients pour développer des solutions efficaces, évolutives et conviviales qui répondent aux défis du monde réel. Je suis impatient de collaborer avec vous pour transformer vos idées en réalité!"
+  },
+  "services": {
+    "webDeveloper": "Développeur Web",
+    "dataVisualisationSpecialist": "Spécialiste de la visualisation des données",
+    "modelEnthusiast": "Passionné de modélisation 3D",
+    "digitalArtist": "Artiste numérique"
+  },
+  "contact": {
+    "getInTouch": "Entrer en contact",
+    "contactTitle": "Contact."
+  },
+  "education": {
+    "sectionSubText": "Mes atouts principaux",
+    "sectionHeadText": "Éducation."
+  },
+  "experience": {
+    "sectionSubText": "Ce que j'ai accompli jusqu'à présent",
+    "sectionHeadText": "Expérience professionnelle.",
+    "showDetails": "Afficher les détails",
+    "hideDetails": "Masquer les détails",
+    "juniorFrontendDeveloper": {
+      "title": "Développeur Frontend Junior",
+      "companyName": "Yellow Pages",
+      "date": "Jun 2017 - Jul 2017",
+      "points": [
+        "Collaboré avec des équipes interfonctionnelles, y compris des designers, des chefs de produit et d'autres développeurs, pour créer des produits de haute qualité.",
+        "Créé la page 'Mot de passe oublié/réinitialiser'.",
+        "Amélioré la page de recherche pour les résultats 'Page non trouvée'."
+      ]
+    },
+    "managementTrainee": {
+      "title": "Stagiaire en Gestion",
+      "companyName": "Rell - Toksöz Grup",
+      "date": "Sep 2018 - Sep 2019",
+      "points": [
+        "En tant que stagiaire en gestion, j'ai eu 3 rotations de poste en tant qu'administrateur réseau, développeur web et consultant en programme. Ces rotations m'ont permis d'acquérir une expérience pratique et de décider si le poste me convenait ou non.",
+        "J'ai suivi des cours de leadership et appris la culture et les valeurs de l'entreprise.",
+        "J'ai appris C# et ASP.Net lors d'une de mes rotations. J'ai travaillé sur deux projets :",
+        "Logiciel de gestion des actifs : SoftExpert",
+        "Application de commande EDI : C# ASP.Net - Framework XAF"
+      ]
+    },
+    "softwareSpecialist": {
+      "title": "Spécialiste Logiciel",
+      "companyName": "Sanset",
+      "date": "Sep 2019 - Jan 2022",
+      "points": [
+        "J'ai travaillé sur un modèle de bonus et un projet d'intégration de commerce électronique. Le modèle de bonus utilise le framework XAF et se concentre sur le calcul des bonus des représentants commerciaux. Il change chaque mois.",
+        "L'intégration de commerce électronique consiste à utiliser des API dans des services web créés.",
+        "Mise en œuvre de conceptions réactives et garantie de la compatibilité entre navigateurs.",
+        "J'ai travaillé sur un projet de création d'examens et d'enquêtes pour les représentants commerciaux et de maintenance du projet de modèle de bonus."
+      ]
+    },
+    "frontendDeveloper": {
+      "title": "Développeur Frontend",
+      "companyName": "Siemens",
+      "date": "Feb 2022 - Présent",
+      "points": [
+        "Développer et maintenir des applications web utilisant React.js et d'autres technologies associées.",
+        "Collaborer avec des équipes interfonctionnelles, y compris des designers, des chefs de produit et d'autres développeurs, pour créer des produits de haute qualité.",
+        "Mettre en œuvre des conceptions réactives et garantir la compatibilité entre navigateurs.",
+        "Participer aux revues de code et fournir des retours constructifs aux autres développeurs."
+      ]
+    }
+  }
+}

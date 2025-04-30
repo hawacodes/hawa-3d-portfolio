@@ -1,0 +1,81 @@
+{
+  "softwareEngineer": "Yazılım Mühendisi",
+  "navLinks": {
+    "about": "Hakkında",
+    "works": "Çalışma",
+    "contact": "İletişim"
+  },
+  "hero": {
+    "greeting": "Merhaba, Ben",
+    "description": "Etkileşimli ve görsel olarak çekici web uygulamaları oluşturma konusunda keskin bir göze sahip tutkulu bir yazılım geliştiricisiyim. Yaklaşımım, sorunsuz kullanıcı deneyimleri sunmak için teknik uzmanlığı yaratıcı problem çözme ile birleştirir."
+  },
+  "about": {
+    "introduction": "Giriş",
+    "overview": "Genel Bakış",
+    "description": "JavaScript konusunda deneyimli bir yazılım geliştirici olarak, React, echarts ve Three.js gibi çerçevelerde uzmanım. Yeni becerileri hızla öğrenme konusunda yetenekliyim ve müşterilerle yakın çalışarak gerçek dünya sorunlarını ele alan verimli, ölçeklenebilir ve kullanıcı dostu çözümler geliştiriyorum. Fikirlerinizi gerçeğe dönüştürmek için sizinle işbirliği yapmaktan heyecan duyuyorum!"
+  },
+  "services": {
+    "webDeveloper": "Web Geliştirici",
+    "dataVisualisationSpecialist": "Veri Görselleştirme Uzmanı",
+    "modelEnthusiast": "3D model meraklısı",
+    "digitalArtist": "Dijital Sanatçı"
+  },
+  "contact": {
+    "getInTouch": "İletişime geçin",
+    "contactTitle": "İletişim."
+  },
+  "education": {
+    "sectionSubText": "Temel varlıklarım",
+    "sectionHeadText": "Eğitim."
+  },
+  "experience": {
+    "sectionSubText": "Şimdiye kadar yaptıklarım",
+    "sectionHeadText": "İş Deneyimi.",
+    "showDetails": "Detayları göster",
+    "hideDetails": "Detayları gizle",
+    "juniorFrontendDeveloper": {
+      "title": "Junior Frontend Geliştirici",
+      "companyName": "Yellow Pages",
+      "date": "Haz 2017 - Tem 2017",
+      "points": [
+        "Tasarımcılar, ürün yöneticileri ve diğer geliştiriciler dahil olmak üzere çapraz fonksiyonel ekiplerle iş birliği yaparak yüksek kaliteli ürünler oluşturdum.",
+        "'Şifremi Unuttum/Şifreyi Sıfırla' sayfasını oluşturdum.",
+        "'Sayfa Bulunamadı' sonuçları için arama sayfasını geliştirdim."
+      ]
+    },
+    "managementTrainee": {
+      "title": "Yönetim Stajyeri",
+      "companyName": "Rell - Toksöz Grup",
+      "date": "Eyl 2018 - Eyl 2019",
+      "points": [
+        "Yönetim stajyeri olarak, ağ yöneticisi, web geliştirici ve program danışmanı olarak 3 iş rotasyonum oldu. Bu rotasyonlar, her bir veya iki ayda bir farklı iş fonksiyonlarında çalışarak pratik deneyim kazanmamı ve işin bana uygun olup olmadığını belirlememi sağladı.",
+        "Liderlik dersleri aldım ve şirketin kültürü ve değerleri hakkında bilgi edindim.",
+        "Rotasyonlardan birinde C# ve ASP.Net öğrendim. İki projede çalıştım:",
+        "Varlık Yönetim Yazılımı: SoftExpert",
+        "EDI Sipariş Uygulaması: C# ASP.Net - XAF Framework"
+      ]
+    },
+    "softwareSpecialist": {
+      "title": "Yazılım Uzmanı",
+      "companyName": "Sanset",
+      "date": "Eyl 2019 - Oca 2022",
+      "points": [
+        "Bonus modeli ve bir E-ticaret entegrasyon projesi üzerinde çalıştım. Bonus Modeli, XAF framework'ünü kullanır ve satış temsilcilerinin bonuslarını hesaplamaya odaklanır. Her ay değişir.",
+        "E-ticaret entegrasyonu, oluşturulan web servislerinde API kullanımıyla ilgilidir.",
+        "Duyarlı tasarım uygulama ve tarayıcılar arası uyumluluğu sağlama.",
+        "Satış temsilcileri için sınavlar ve anketler oluşturma ve Bonus Modeli projesini sürdürme üzerine bir projede çalıştım."
+      ]
+    },
+    "frontendDeveloper": {
+      "title": "Frontend Geliştirici",
+      "companyName": "Siemens",
+      "date": "Şub 2022 - Günümüz",
+      "points": [
+        "React.js ve diğer ilgili teknolojileri kullanarak web uygulamaları geliştirme ve bakımını yapma.",
+        "Tasarımcılar, ürün yöneticileri ve diğer geliştiriciler dahil olmak üzere çapraz fonksiyonel ekiplerle iş birliği yaparak yüksek kaliteli ürünler oluşturma.",
+        "Duyarlı tasarım uygulama ve tarayıcılar arası uyumluluğu sağlama.",
+        "Kod incelemelerine katılma ve diğer geliştiricilere yapıcı geri bildirim sağlama."
+      ]
+    }
+  }
+}

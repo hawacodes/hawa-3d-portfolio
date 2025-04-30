@@ -1,0 +1,81 @@
+{
+  "softwareEngineer": "Ingeniero de Software",
+  "navLinks": {
+    "about": "Acerca de",
+    "works": "Trabajo",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "greeting": "Hola, Soy",
+    "description": "Soy un desarrollador de software apasionado con un gran ojo para crear aplicaciones web interactivas y visualmente atractivas. Mi enfoque combina experiencia técnica con resolución creativa de problemas para ofrecer experiencias de usuario fluidas."
+  },
+  "about": {
+    "introduction": "Introducción",
+    "overview": "Visión general",
+    "description": "Como desarrollador de software experimentado y competente en JavaScript, me especializo en frameworks como React, echarts y Three.js. Soy hábil para adquirir nuevas habilidades rápidamente y trabajar en estrecha colaboración con los clientes para desarrollar soluciones eficientes, escalables y fáciles de usar que aborden los desafíos del mundo real. ¡Estoy emocionado de colaborar con usted para transformar sus ideas en realidad!"
+  },
+  "services": {
+    "webDeveloper": "Desarrollador Web",
+    "dataVisualisationSpecialist": "Especialista en visualización de datos",
+    "modelEnthusiast": "Entusiasta de modelos 3D",
+    "digitalArtist": "Artista digital"
+  },
+  "contact": {
+    "getInTouch": "Ponerse en contacto",
+    "contactTitle": "Contacto."
+  },
+  "education": {
+    "sectionSubText": "Mis activos principales",
+    "sectionHeadText": "Educación."
+  },
+  "experience": {
+    "sectionSubText": "Lo que he hecho hasta ahora",
+    "sectionHeadText": "Experiencia laboral.",
+    "showDetails": "Mostrar detalles",
+    "hideDetails": "Ocultar detalles",
+    "juniorFrontendDeveloper": {
+      "title": "Desarrollador Frontend Junior",
+      "companyName": "Yellow Pages",
+      "date": "Jun 2017 - Jul 2017",
+      "points": [
+        "Colaboré con equipos multifuncionales, incluidos diseñadores, gerentes de producto y otros desarrolladores, para crear productos de alta calidad.",
+        "Creé la página de 'Olvidé/Restablecer Contraseña'.",
+        "Mejoré la página de búsqueda para resultados de 'Página No Encontrada'."
+      ]
+    },
+    "managementTrainee": {
+      "title": "Trainee de Gestión",
+      "companyName": "Rell - Toksöz Grup",
+      "date": "Sep 2018 - Sep 2019",
+      "points": [
+        "Como trainee de gestión, tuve 3 rotaciones laborales como administrador de red, desarrollador web y consultor de programas. Estas rotaciones me colocaron en diferentes funciones laborales cada uno o dos meses, permitiéndome obtener experiencia práctica y decidir si el trabajo era adecuado para mí.",
+        "Tomé clases de liderazgo y aprendí sobre la cultura y los valores de la empresa.",
+        "Aprendí C# y ASP.Net durante una de mis rotaciones. Trabajé en dos proyectos:",
+        "Software de Gestión de Activos: SoftExpert",
+        "Aplicación de Pedidos EDI: C# ASP.Net - Framework XAF"
+      ]
+    },
+    "softwareSpecialist": {
+      "title": "Especialista en Software",
+      "companyName": "Sanset",
+      "date": "Sep 2019 - Jan 2022",
+      "points": [
+        "Trabajé en un modelo de bonificación y un proyecto de integración de comercio electrónico. El modelo de bonificación utiliza el framework XAF y se centra en calcular las bonificaciones de los representantes de ventas. Cambia cada mes.",
+        "La integración de comercio electrónico consiste en usar API dentro de servicios web creados.",
+        "Implementación de diseño responsivo y asegurando la compatibilidad entre navegadores.",
+        "Trabajé en un proyecto sobre la creación de exámenes y encuestas para representantes de ventas y el mantenimiento del proyecto del modelo de bonificación."
+      ]
+    },
+    "frontendDeveloper": {
+      "title": "Desarrollador Frontend",
+      "companyName": "Siemens",
+      "date": "Feb 2022 - Presente",
+      "points": [
+        "Desarrollar y mantener aplicaciones web utilizando React.js y otras tecnologías relacionadas.",
+        "Colaborar con equipos multifuncionales, incluidos diseñadores, gerentes de producto y otros desarrolladores, para crear productos de alta calidad.",
+        "Implementar diseño responsivo y asegurar la compatibilidad entre navegadores.",
+        "Participar en revisiones de código y proporcionar comentarios constructivos a otros desarrolladores."
+      ]
+    }
+  }
+}
