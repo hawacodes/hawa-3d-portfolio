@@ -1,28 +1,25 @@
-import { Tilt } from 'react-tilt';
+import Tilt from 'react-parallax-tilt';
 import { motion } from 'framer-motion';
 import { useTranslation } from 'react-i18next';
 
 import { styles } from '../style';
 import { services } from '../constants';
-import { fadeIn, textVariant } from "../utils/motion";
+import { fadeIn, textVariant } from '../utils/motion';
 import { SectionWrapper } from '../hoc';
 
 const ServiceCard = ({ index, title, icon }) => {
   const { t } = useTranslation();
   return (
-    <Tilt className='xs:w-[250px] w-full'>
+    <Tilt
+      className='xs:w-[250px] w-full'
+      tiltMaxAngleX={45}
+      tiltMaxAngleY={45}
+      scale={1}
+      transitionSpeed={450}>
       <motion.div
         variants={fadeIn("right", "spring", index * 0.5, 0.75)}
-        className='w-full green-pink-gradient p-[1px] rounded-[20px] shadow-card'
-      >
-        <div
-          options={{
-            max: 45,
-            scale: 1,
-            speed: 450,
-          }}
-          className='bg-tertiary rounded-[20px] py-5 px-12 min-h-[280px] flex justify-evenly items-center flex-col'
-        >
+        className='w-full green-pink-gradient p-[1px] rounded-[20px] shadow-card'>
+        <div className='bg-tertiary rounded-[20px] py-5 px-12 min-h-[280px] flex justify-evenly items-center flex-col'>
           <img
             src={icon}
             alt='web-development'
@@ -55,7 +52,12 @@ const About = () => {
       </motion.p>
       <div className='mt-10 flex flex-wrap gap-10'>
         {services.map((service, index) => (
-          <ServiceCard key={service.title} index={index} title={service.title} icon={service.icon} />
+          <ServiceCard
+            key={service.title}
+            index={index}
+            title={service.title}
+            icon={service.icon}
+          />
         ))}
       </div>
     </>
