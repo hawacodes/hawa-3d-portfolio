@@ -2,7 +2,7 @@ import { motion } from 'framer-motion';
 import { useTranslation } from 'react-i18next';
 
 import { styles } from '../style';
-import { ComputersCanvas } from './canvas';
+import Hero3DCanvas from './canvas/Computers';
 
 const Hero = () => {
   const { t } = useTranslation();
@@ -23,7 +23,7 @@ const Hero = () => {
           </p>
         </div>
       </div>
-      <ComputersCanvas />
+      <Hero3DCanvas />
       <div className='absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center'>
         <a href='#about'>
           <div className='w-[35px] h-[64px] rounded-3xl border-4 border-secondary flex justify-center items-center p-2'>
