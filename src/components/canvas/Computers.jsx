@@ -1,12 +1,12 @@
-import React, { Suspense, useEffect, useState } from "react";
+import  { Suspense, useEffect, useState } from "react";
 import { Canvas } from "@react-three/fiber";
-import { OrbitControls, Preload, useGLTF } from "@react-three/drei";
+import { Environment, Preload, useGLTF } from "@react-three/drei";
 
 import CanvasLoader from "../Loader";
+import { Avatar } from "../Avatar";
 
-const Computers = ({ isMobile }) => {
+export const Computers = ({ isMobile }) => {
   const computer = useGLTF("/desktop_pc/scene.gltf");
-
 
   return (
     <mesh>
@@ -30,7 +30,7 @@ const Computers = ({ isMobile }) => {
   );
 };
 
-const ComputersCanvas = () => {
+const Hero3DCanvas = () => {
   const [isMobile, setIsMobile] = useState(false);
 
   useEffect(() => {
@@ -52,20 +52,14 @@ const ComputersCanvas = () => {
 
   return (
     <Canvas
-      frameloop='demand'
       shadows
       dpr={[1, 2]}
       camera={{ position: [20, 3, 5], fov: 25 }}
-      gl={{ preserveDrawingBuffer: true }}
-    >
+      gl={{ preserveDrawingBuffer: true }}>
       <Suspense fallback={<CanvasLoader />}>
-        <OrbitControls
-          enableZoom={false}
-          maxPolarAngle={Math.PI / 2}
-          minPolarAngle={Math.PI / 2}
-        />
+        <Environment preset='forest' />
         <Computers isMobile={isMobile} />
-
+        <Avatar isMobile={isMobile} />
       </Suspense>
 
       <Preload all />
@@ -73,4 +67,4 @@ const ComputersCanvas = () => {
   );
 };
 
-export default ComputersCanvas;
+export default Hero3DCanvas;
