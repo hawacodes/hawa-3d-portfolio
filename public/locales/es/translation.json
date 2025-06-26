@@ -38,9 +38,8 @@
       "companyName": "Yellow Pages",
       "date": "Jun 2017 - Jul 2017",
       "points": [
-        "Colaboré con equipos multifuncionales, incluidos diseñadores, gerentes de producto y otros desarrolladores, para crear productos de alta calidad.",
-        "Creé la página de 'Olvidé/Restablecer Contraseña'.",
-        "Mejoré la página de búsqueda para resultados de 'Página No Encontrada'."
+        "Colaboré con equipos multifuncionales para desarrollar productos, implementé la funcionalidad de restablecimiento de contraseñas y mejoré el manejo de errores en la página de búsqueda.",
+        "CoffeeScript, Laravel, Bootstrap"
       ]
     },
     "managementTrainee": {
@@ -48,11 +47,8 @@
       "companyName": "Rell - Toksöz Grup",
       "date": "Sep 2018 - Sep 2019",
       "points": [
-        "Como trainee de gestión, tuve 3 rotaciones laborales como administrador de red, desarrollador web y consultor de programas. Estas rotaciones me colocaron en diferentes funciones laborales cada uno o dos meses, permitiéndome obtener experiencia práctica y decidir si el trabajo era adecuado para mí.",
-        "Tomé clases de liderazgo y aprendí sobre la cultura y los valores de la empresa.",
-        "Aprendí C# y ASP.Net durante una de mis rotaciones. Trabajé en dos proyectos:",
-        "Software de Gestión de Activos: SoftExpert",
-        "Aplicación de Pedidos EDI: C# ASP.Net - Framework XAF"
+        "Completé tres rotaciones como aprendiz de gestión en administración de redes, desarrollo web y consultoría de programas. Adquirí experiencia en C# y ASP.Net mientras trabajaba en proyectos de SoftExpert y XAF Framework. Participé en programas de formación en liderazgo y cultura empresarial.",
+        "C#, ASP.Net, SoftExpert, XAF Framework, MssQL"
       ]
     },
     "softwareSpecialist": {
@@ -60,10 +56,8 @@
       "companyName": "Sanset",
       "date": "Sep 2019 - Jan 2022",
       "points": [
-        "Trabajé en un modelo de bonificación y un proyecto de integración de comercio electrónico. El modelo de bonificación utiliza el framework XAF y se centra en calcular las bonificaciones de los representantes de ventas. Cambia cada mes.",
-        "La integración de comercio electrónico consiste en usar API dentro de servicios web creados.",
-        "Implementación de diseño responsivo y asegurando la compatibilidad entre navegadores.",
-        "Trabajé en un proyecto sobre la creación de exámenes y encuestas para representantes de ventas y el mantenimiento del proyecto del modelo de bonificación."
+        "Desarrollé un modelo de bonificación dinámico utilizando el marco XAF para los cálculos mensuales de los representantes de ventas. Implementé integraciones de API de comercio electrónico y servicios web. Creé sistemas de exámenes y encuestas receptivos mientras mantenía el proyecto del modelo de bonificación.",
+        "C#, ASP.Net, SoftExpert, XAF Framework, MssQL, HTML, CSS, JavaScript, Metodologías Ágiles, JIRA, Git"
       ]
     },
     "frontendDeveloper": {
@@ -74,7 +68,8 @@
         "Desarrollar y mantener aplicaciones web utilizando React.js y otras tecnologías relacionadas.",
         "Colaborar con equipos multifuncionales, incluidos diseñadores, gerentes de producto y otros desarrolladores, para crear productos de alta calidad.",
         "Implementar diseño responsivo y asegurar la compatibilidad entre navegadores.",
-        "Participar en revisiones de código y proporcionar comentarios constructivos a otros desarrolladores."
+        "Participar en revisiones de código y proporcionar comentarios constructivos a otros desarrolladores.",
+        "React, Javascript, Echarts, Tailwind, Figma, Git, Agile methodologies, HTML, CSS"
       ]
     }
   }

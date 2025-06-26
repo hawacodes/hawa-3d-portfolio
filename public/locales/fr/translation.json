@@ -38,9 +38,8 @@
       "companyName": "Yellow Pages",
       "date": "Jun 2017 - Jul 2017",
       "points": [
-        "Collaboré avec des équipes interfonctionnelles, y compris des designers, des chefs de produit et d'autres développeurs, pour créer des produits de haute qualité.",
-        "Créé la page 'Mot de passe oublié/réinitialiser'.",
-        "Amélioré la page de recherche pour les résultats 'Page non trouvée'."
+        "Collaboré avec des équipes interfonctionnelles pour développer des produits, implémenté la fonctionnalité de réinitialisation de mot de passe et amélioré la gestion des erreurs de la page de recherche.",
+        "CoffeeScript, Laravel, Bootstrap"
       ]
     },
     "managementTrainee": {
@@ -48,11 +47,8 @@
       "companyName": "Rell - Toksöz Grup",
       "date": "Sep 2018 - Sep 2019",
       "points": [
-        "En tant que stagiaire en gestion, j'ai eu 3 rotations de poste en tant qu'administrateur réseau, développeur web et consultant en programme. Ces rotations m'ont permis d'acquérir une expérience pratique et de décider si le poste me convenait ou non.",
-        "J'ai suivi des cours de leadership et appris la culture et les valeurs de l'entreprise.",
-        "J'ai appris C# et ASP.Net lors d'une de mes rotations. J'ai travaillé sur deux projets :",
-        "Logiciel de gestion des actifs : SoftExpert",
-        "Application de commande EDI : C# ASP.Net - Framework XAF"
+        "J'ai effectué trois rotations en tant que stagiaire en gestion dans l'administration réseau, le développement web et le conseil en programmes. J'ai acquis de l'expérience en C# et ASP.Net en travaillant sur des projets SoftExpert et XAF Framework. J'ai participé à des formations en leadership et à des programmes de culture d'entreprise.",
+        "C#, ASP.Net, SoftExpert, XAF Framework, MssQL"
       ]
     },
     "softwareSpecialist": {
@@ -60,10 +56,8 @@
       "companyName": "Sanset",
       "date": "Sep 2019 - Jan 2022",
       "points": [
-        "J'ai travaillé sur un modèle de bonus et un projet d'intégration de commerce électronique. Le modèle de bonus utilise le framework XAF et se concentre sur le calcul des bonus des représentants commerciaux. Il change chaque mois.",
-        "L'intégration de commerce électronique consiste à utiliser des API dans des services web créés.",
-        "Mise en œuvre de conceptions réactives et garantie de la compatibilité entre navigateurs.",
-        "J'ai travaillé sur un projet de création d'examens et d'enquêtes pour les représentants commerciaux et de maintenance du projet de modèle de bonus."
+        "Développé un modèle de bonus dynamique en utilisant le framework XAF pour les calculs mensuels des représentants commerciaux. Implémenté des intégrations d'API de commerce électronique et des services web. Créé des systèmes d'examens et d'enquêtes réactifs tout en maintenant le projet du modèle de bonus.",
+        "C#, ASP.Net, SoftExpert, XAF Framework, MssQL, HTML, CSS, JavaScript, Méthodologies Agiles, JIRA, Git"
       ]
     },
     "frontendDeveloper": {
@@ -74,7 +68,8 @@
         "Développer et maintenir des applications web utilisant React.js et d'autres technologies associées.",
         "Collaborer avec des équipes interfonctionnelles, y compris des designers, des chefs de produit et d'autres développeurs, pour créer des produits de haute qualité.",
         "Mettre en œuvre des conceptions réactives et garantir la compatibilité entre navigateurs.",
-        "Participer aux revues de code et fournir des retours constructifs aux autres développeurs."
+        "Participer aux revues de code et fournir des retours constructifs aux autres développeurs.",
+        "React, Javascript, Echarts, Tailwind, Figma, Git, Agile methodologies, HTML, CSS"
       ]
     }
   }

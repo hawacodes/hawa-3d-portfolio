@@ -107,9 +107,7 @@ import {
       iconBg: "#383E56",
       date: "Jun 2017 - Jul 2017",
       points: [
-      "Collaborated with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Created 'Forgot/Reset Password' page.",
-      "Improved the search page for 'No Page Found' outcomes.",
+        "Collaborated with cross-functional teams to develop products, implemented password reset functionality, and enhanced search page error handling."
       ],
       tags: [
         {
@@ -133,11 +131,7 @@ import {
       iconBg: "#E6DEDD",
       date: "Sep 2018 - Sep 2019",
       points: [
-        "As a management trainee, I had 3 job rotations as a network administrator, web developer, and program consultant. These rotations put me in a different job function every one to two months allowing me to get the first-hand experience and decide whether the job is right for me or not. ",
-        "I took leadership classes and learned about the company's culture and values.",
-        "I learned C# and ASP.Net during one of my rotations. I worked  on two projects:",
-        "Asset Management Software: SoftExpert",
-        "EDI Order Application: C# ASP. Net - XAF Framework",
+       "Completed three rotations as a management trainee in network administration, web development, and program consulting. Gained experience in C# and ASP.Net while working on SoftExpert and XAF Framework projects. Participated in leadership training and company culture programs"
       ],
       tags: [
         {
@@ -161,10 +155,7 @@ import {
       iconBg: "#383E56",
       date: "Sep 2019 - Jan 2022",
       points: [
-        "I worked on a bonus model and an E-commerce integration project. The Bonus Model consists of the XAF framework and focuses on calculating sales representatives’ bonuses. It changes every month",
-        "E-commerce integration is about using API inside created web services.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "I worked on a project about creating exams and surveys for sales representatives and maintaining the Bonus Model project",
+       "Developed a dynamic Bonus Model using XAF framework for sales representatives' monthly calculations. Implemented e-commerce API integrations and web services. Created responsive exam and survey systems while maintaining the Bonus Model project."
       ],
       tags: [
         {
@@ -228,10 +219,10 @@ import {
       image: mondragon,
     },
     {
-      educationTitle: "Child Development",
+      educationTitle: "Child Development & Education",
       educationName: "Istanbul University",
       from: "2019",
-      to: "...",
+      to: "2025",
       degree: "Bachelor's degree",
       image: istanbul,
     },
